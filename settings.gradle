@@ -1,0 +1,2 @@
+rootProject.name = "LinternaPRO3000"
+include ':app'
